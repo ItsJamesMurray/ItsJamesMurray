@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![I like Seinfeld](https://img.youtube.com/vi/sp_71Ok39Y0/0.jpg)](https://www.youtube.com/watch?v=sp_71Ok39Y0)
