@@ -27,7 +27,7 @@ With Strumm, you can do your research on instructors before signing up for lesso
 ---
 
 <p>
-  <a href="https://www.prismgrowth.com"><img width="400" align='left' src="https://media-exp1.licdn.com/dms/image/C4E1BAQG-ohf7y1tZGw/company-background_10000/0/1625077462817?e=1625198400&v=beta&t=LZMP6sXiHtU0P0vyTJzqzZHFqhIwwM_DUhrBWxQ3ImM"></a>
+  <a href="https://www.prismgrowth.com"><img width="200" align='left' src="https://media-exp1.licdn.com/dms/image/C4E0BAQFQFNfAx8AYpg/company-logo_200_200/0/1625077406777?e=1632960000&v=beta&t=HvG-z8U4e9eWlsq4lBNZsPHo_2u5zVXop5OJzQFzH1M"></a>
 </p>
 
 ### What I do daily
