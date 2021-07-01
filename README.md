@@ -8,7 +8,7 @@
 
 ### Hi, I'm James,
 
-Currently at Google working on Go-To-Market Strategy; Currently building something fun (🤘); Studied at London Business School and the University of Missouri-Kansas City.  I have a passion for startups, entrepreneurship, and the Kansas City Chiefs.  
+Founder of Prism – a data driven digital marketing agency; Previously at Google working on Go-To-Market Strategy; Studied at London Business School and the University of Missouri-Kansas City.  I have a passion for startups, entrepreneurship, and the Kansas City Chiefs.  
 
  If you found value in something I have created, please feel free to send a [tip](https://www.ko-fi.com/jamesmurray), tweet me [@itsjamesmurray](https://twitter.com/itsjamesmurray), or sign up for my newsletter at www.itsjamesmurray.com/contact.
  
@@ -23,6 +23,16 @@ Currently at Google working on Go-To-Market Strategy; Currently building somethi
 According to Fender, 90% of beginner guitar players give up within a year.  I wholly believe in-person instruction is much better than online, pre-recorded, content when trying to truly help new guitarists get past their first chords.
 
 With Strumm, you can do your research on instructors before signing up for lessons. We'll also provide resources for instructors so they can focus on teaching their students, such as billing, scheduling, and finding new students.
+
+---
+
+<p>
+  <a href="https://www.prismgrowth.com"><img width="400" align='left' src="https://media-exp1.licdn.com/dms/image/C4E1BAQG-ohf7y1tZGw/company-background_10000/0/1625077462817?e=1625198400&v=beta&t=LZMP6sXiHtU0P0vyTJzqzZHFqhIwwM_DUhrBWxQ3ImM"></a>
+</p>
+
+### What I do daily
+
+I founded Prism.  We are a data driven digital marketing agency run by former Googlers and former media execs.  Our goal is to help our clients fully capture their first party data, and leverage that into marketing decision making.
 
 ---
 
