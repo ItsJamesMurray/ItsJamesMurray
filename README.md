@@ -10,7 +10,7 @@
 
 Founder of Prism – a data driven digital marketing agency; Previously at Google working on Go-To-Market Strategy; Studied at London Business School and the University of Missouri-Kansas City.  I have a passion for startups, entrepreneurship, and the Kansas City Chiefs.  
 
- If you found value in something I have created, please feel free to send a [tip](https://www.ko-fi.com/jamesmurray), tweet me [@itsjamesmurray](https://twitter.com/itsjamesmurray), or sign up for my newsletter at www.itsjamesmurray.com/contact.
+ If you found value in something I have created, please feel free to send a [tip](https://www.ko-fi.com/jamesmurray), tweet me [@itsjamesmurray](https://twitter.com/itsjamesmurray), or reach me at //www.itsjamesmurray.com/around.
  
  ---
 
