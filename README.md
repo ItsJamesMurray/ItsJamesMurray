@@ -1,7 +1,7 @@
 # [![james murray header](https://github.com/ItsJamesMurray/ItsJamesMurray/blob/master/assets/visionary.png)](https://www.itsjamesmurray.com)
 <p align='center'>
-<a href="https://www.twitter/itsjamesmurray"><img height="30" src="https://image.flaticon.com/icons/svg/124/124021.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram/itsjamesmurray"><img height="30" src="https://image.flaticon.com/icons/svg/1384/1384063.svg"></a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/itsjamesmurray"><img height="30" src="https://image.flaticon.com/icons/svg/124/124021.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/itsjamesmurray"><img height="30" src="https://image.flaticon.com/icons/svg/1384/1384063.svg"></a>&nbsp;&nbsp;
 <a href="https://www.ko-fi.com/itsjamesmurray"><img height="30" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png"></a>
 <a href="https://www.linkedin.com/in/itsjamesmurray/"><img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a>
 </p>
